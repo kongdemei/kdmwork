@@ -138,7 +138,7 @@ public class StudentDome {
                 Scanner snoid = new Scanner(System.in);
                 System.out.println("输入学号：");
                 resultStudent = studentDome.read(snoid.nextInt());
-                System.out.println("根据id查询:" + resultStudent);
+                System.out.println("根据id查询:" + resultStudent.getStudent());
                 break;
             case 2:
                 //查询所有
@@ -150,7 +150,7 @@ public class StudentDome {
                 Scanner scanner = new Scanner(System.in);
                 System.out.println("输入(学号,姓名,性别) 中间用,分割: ");
                 resultStudent = studentDome.write(scanner.next());
-                System.out.println(resultStudent);
+                System.out.println(resultStudent.getException());
                 break;
 
             case 4:
@@ -158,7 +158,7 @@ public class StudentDome {
                 Scanner delsnoid = new Scanner(System.in);
                 System.out.println("输入删除学员的学号: ");
                 resultStudent = studentDome.del(delsnoid.nextInt());
-                System.out.println(resultStudent);
+                System.out.println(resultStudent.getException());
         }
     }
 }
