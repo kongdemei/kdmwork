@@ -8,22 +8,23 @@ import java.util.List;
  * @createDate: 2023/3/31
  */
 public class ResultStudent {
-   private String messge;
-    private Student students;
+   private CustomException exception;
+    private Student student;
 
-    public String getMessge() {
-        return messge;
+    public CustomException getException() {
+        return exception;
     }
 
-    public void setMessge(String messge) {
-        this.messge = messge;
+    public void setException(CustomException exception) {
+        this.exception = exception;
     }
 
-    public Student getStudents() {
-        return students;
+    public Student getStudent() {
+        return student;
     }
 
-    public void setStudents(Student students) {
-        this.students = students;
+    public void setStudents(Student student) {
+        this.student = student;
     }
+
 }
