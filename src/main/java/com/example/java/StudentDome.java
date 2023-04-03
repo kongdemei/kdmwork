@@ -89,8 +89,8 @@ public class StudentDome {
         ResultStudent result = new ResultStudent();
         Yaml yaml = new Yaml();
         Map<Integer, Object> objectMap = yaml.load(new FileInputStream(PATH));
-        if (objectMap == null) {
-            result.setException(new CustomException("文件中没有学员信息"));
+        if (objectMap == null||null==objectMap.get(id)) {
+            result.setException(new CustomException("没有学员信息"));
             return result;
         }
         objectMap.remove(id);
