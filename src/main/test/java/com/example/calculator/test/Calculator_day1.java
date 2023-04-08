@@ -1,5 +1,6 @@
-package com.example.calculator;
+package com.example.calculator.test;
 
+import com.example.calculator.Calculator;
 import org.junit.jupiter.api.*;
 import org.slf4j.Logger;
 

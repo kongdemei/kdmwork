@@ -1,0 +1,205 @@
+2023-04-08 08:35:10.214 [main] INFO  com.example.calculator.Calculator - 创建 创建计算器 
+2023-04-08 08:35:10.262 [main] INFO  com.example.calculator.Calculator - 关闭 创建计算器 
+2023-04-08 08:35:34.663 [main] INFO  com.example.calculator.Calculator - 创建 创建计算器 
+2023-04-08 08:35:34.717 [main] INFO  com.example.calculator.Calculator - 关闭 创建计算器 
+2023-04-08 08:37:12.391 [main] INFO  com.example.calculator.Calculator - 创建 创建计算器 
+2023-04-08 08:37:12.442 [main] INFO  com.example.calculator.Calculator - 关闭 创建计算器 
+2023-04-08 08:37:24.737 [main] INFO  com.example.calculator.Calculator - 创建 创建计算器 
+2023-04-08 08:37:25.029 [main] INFO  com.example.calculator.Calculator - 生成ID：f2a8bac7-77e4-4329-8674-d7fbbc3eabe1 并绑定
+2023-04-08 08:37:25.065 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 3
+2023-04-08 08:37:25.072 [main] INFO  com.example.calculator.Calculator - ID: f2a8bac7-77e4-4329-8674-d7fbbc3eabe1 释放
+2023-04-08 08:37:25.084 [main] INFO  com.example.calculator.Calculator - 关闭 创建计算器 
+2023-04-08 08:38:07.923 [main] INFO  com.example.calculator.Calculator - 创建 创建计算器 
+2023-04-08 08:38:08.233 [main] INFO  com.example.calculator.Calculator - 生成ID：bfac396d-c380-417e-bcab-ab7a7564139f 并绑定
+2023-04-08 08:38:08.265 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 2
+2023-04-08 08:38:08.271 [main] INFO  com.example.calculator.Calculator - ID: bfac396d-c380-417e-bcab-ab7a7564139f 释放
+2023-04-08 08:38:08.287 [main] INFO  com.example.calculator.Calculator - 生成ID：57f8146b-8e81-4936-9c74-8086a79a14d0 并绑定
+2023-04-08 08:38:08.288 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 196
+2023-04-08 08:38:08.289 [main] INFO  com.example.calculator.Calculator - ID: 57f8146b-8e81-4936-9c74-8086a79a14d0 释放
+2023-04-08 08:38:08.292 [main] INFO  com.example.calculator.Calculator - 关闭 创建计算器 
+2023-04-08 08:40:11.085 [main] INFO  com.example.calculator.Calculator - 创建 创建计算器 
+2023-04-08 08:40:11.374 [main] INFO  com.example.calculator.Calculator - 生成ID：cc51712b-2ee8-42c2-aa17-f642eb86ecc6 并绑定
+2023-04-08 08:40:11.401 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 2
+2023-04-08 08:40:11.407 [main] INFO  com.example.calculator.Calculator - ID: cc51712b-2ee8-42c2-aa17-f642eb86ecc6 释放
+2023-04-08 08:40:11.419 [main] INFO  com.example.calculator.Calculator - 生成ID：9e8327d1-6cbc-4153-b426-efbe91737259 并绑定
+2023-04-08 08:40:11.420 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 196
+2023-04-08 08:40:11.421 [main] INFO  com.example.calculator.Calculator - ID: 9e8327d1-6cbc-4153-b426-efbe91737259 释放
+2023-04-08 08:40:11.424 [main] INFO  com.example.calculator.Calculator - 生成ID：2fc05870-2ef6-46d0-963d-1c509bd19e73 并绑定
+2023-04-08 08:40:11.425 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 0
+2023-04-08 08:40:11.426 [main] INFO  com.example.calculator.Calculator - ID: 2fc05870-2ef6-46d0-963d-1c509bd19e73 释放
+2023-04-08 08:40:11.428 [main] INFO  com.example.calculator.Calculator - 生成ID：813c1552-2281-4da6-aaca-8621584fb262 并绑定
+2023-04-08 08:40:11.429 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 -196
+2023-04-08 08:40:11.430 [main] INFO  com.example.calculator.Calculator - ID: 813c1552-2281-4da6-aaca-8621584fb262 释放
+2023-04-08 08:40:11.433 [main] INFO  com.example.calculator.Calculator - 生成ID：908901be-edd0-4af9-9dac-2a43ef2ee8aa 并绑定
+2023-04-08 08:40:11.434 [main] WARN  com.example.calculator.Calculator - integer is 100！
+2023-04-08 08:40:11.436 [main] INFO  com.example.calculator.Calculator - ID: 908901be-edd0-4af9-9dac-2a43ef2ee8aa 释放
+2023-04-08 08:40:11.448 [main] INFO  com.example.calculator.Calculator - 生成ID：1f1fca59-5cd6-428f-9ab0-b7034e75709d 并绑定
+2023-04-08 08:40:11.449 [main] WARN  com.example.calculator.Calculator - 请输入范围内的整数
+2023-04-08 08:40:11.450 [main] INFO  com.example.calculator.Calculator - ID: 1f1fca59-5cd6-428f-9ab0-b7034e75709d 释放
+2023-04-08 08:40:11.458 [main] INFO  com.example.calculator.Calculator - 生成ID：eae922cc-db34-4a35-b353-b00b6779a9bc 并绑定
+2023-04-08 08:40:11.460 [main] WARN  com.example.calculator.Calculator - 请输入范围内的整数
+2023-04-08 08:40:11.460 [main] INFO  com.example.calculator.Calculator - ID: eae922cc-db34-4a35-b353-b00b6779a9bc 释放
+2023-04-08 08:40:11.466 [main] INFO  com.example.calculator.Calculator - 生成ID：a479bdae-7059-4f93-a231-13d939146d0f 并绑定
+2023-04-08 08:40:11.467 [main] WARN  com.example.calculator.Calculator - 请输入范围内的整数
+2023-04-08 08:40:11.468 [main] INFO  com.example.calculator.Calculator - ID: a479bdae-7059-4f93-a231-13d939146d0f 释放
+2023-04-08 08:40:11.475 [main] INFO  com.example.calculator.Calculator - 关闭 创建计算器 
+2023-04-08 08:54:20.212 [main] INFO  com.example.calculator.Calculator - 创建 创建计算器 
+2023-04-08 08:54:20.470 [main] INFO  com.example.calculator.Calculator - 生成ID：d367ad68-dcf8-400d-be7f-b2ed870f7f46 并绑定
+2023-04-08 08:54:20.501 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 4
+2023-04-08 08:54:20.511 [main] INFO  com.example.calculator.Calculator - ID: d367ad68-dcf8-400d-be7f-b2ed870f7f46 释放
+2023-04-08 08:54:20.529 [main] INFO  com.example.calculator.Calculator - 关闭 创建计算器 
+2023-04-08 08:54:34.660 [main] INFO  com.example.calculator.Calculator - 创建 创建计算器 
+2023-04-08 08:54:34.909 [main] INFO  com.example.calculator.Calculator - 生成ID：326dae4c-1b70-4f10-8082-992f6a43387c 并绑定
+2023-04-08 08:54:34.935 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 4
+2023-04-08 08:54:34.943 [main] INFO  com.example.calculator.Calculator - ID: 326dae4c-1b70-4f10-8082-992f6a43387c 释放
+2023-04-08 08:54:34.960 [main] INFO  com.example.calculator.Calculator - 关闭 创建计算器 
+2023-04-08 08:55:31.314 [main] INFO  com.example.calculator.Calculator - 创建 创建计算器 
+2023-04-08 08:55:31.571 [main] INFO  com.example.calculator.Calculator - 生成ID：54626de5-a81a-40c7-ab5e-76aa951f9835 并绑定
+2023-04-08 08:55:31.598 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 4
+2023-04-08 08:55:31.607 [main] INFO  com.example.calculator.Calculator - ID: 54626de5-a81a-40c7-ab5e-76aa951f9835 释放
+2023-04-08 08:55:31.624 [main] INFO  com.example.calculator.Calculator - 关闭 创建计算器 
+2023-04-08 08:56:03.435 [main] INFO  com.example.calculator.Calculator - 创建 创建计算器 
+2023-04-08 08:56:03.687 [main] INFO  com.example.calculator.Calculator - 生成ID：7b074cd1-7505-4abd-b540-3090d1efa2a0 并绑定
+2023-04-08 08:56:03.714 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 4
+2023-04-08 08:56:03.722 [main] INFO  com.example.calculator.Calculator - ID: 7b074cd1-7505-4abd-b540-3090d1efa2a0 释放
+2023-04-08 08:56:03.737 [main] INFO  com.example.calculator.Calculator - 关闭 创建计算器 
+2023-04-08 08:57:33.048 [main] INFO  com.example.calculator.Calculator - 创建 创建计算器 
+2023-04-08 08:57:33.290 [main] INFO  com.example.calculator.Calculator - 生成ID：4c2f572e-ad90-4662-8455-8a7a96ffe62c 并绑定
+2023-04-08 08:57:33.315 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 4
+2023-04-08 08:57:33.320 [main] INFO  com.example.calculator.Calculator - ID: 4c2f572e-ad90-4662-8455-8a7a96ffe62c 释放
+2023-04-08 08:57:33.332 [main] INFO  com.example.calculator.Calculator - 关闭 创建计算器 
+2023-04-08 08:57:49.115 [main] INFO  com.example.calculator.Calculator - 创建 创建计算器 
+2023-04-08 08:57:49.394 [main] INFO  com.example.calculator.Calculator - 生成ID：8c019f26-8986-4772-9caf-6844c6e1c0df 并绑定
+2023-04-08 08:57:49.421 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 2
+2023-04-08 08:57:49.427 [main] INFO  com.example.calculator.Calculator - ID: 8c019f26-8986-4772-9caf-6844c6e1c0df 释放
+2023-04-08 08:57:49.440 [main] INFO  com.example.calculator.Calculator - 关闭 创建计算器 
+2023-04-08 09:32:04.907 [main] INFO  com.example.calculator.Calculator - 创建 创建计算器 
+2023-04-08 09:32:05.598 [main] INFO  com.example.calculator.Calculator - 生成ID：65f687b4-3c38-42a9-864a-4eab2d2274de 并绑定
+2023-04-08 09:32:05.629 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 1
+2023-04-08 09:32:05.642 [main] INFO  com.example.calculator.Calculator - ID: 65f687b4-3c38-42a9-864a-4eab2d2274de 释放
+2023-04-08 09:32:05.657 [main] INFO  com.example.calculator.Calculator - 生成ID：55d50627-0911-47a9-8f21-f5f6d9b02ece 并绑定
+2023-04-08 09:32:05.657 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 1
+2023-04-08 09:32:05.658 [main] INFO  com.example.calculator.Calculator - ID: 55d50627-0911-47a9-8f21-f5f6d9b02ece 释放
+2023-04-08 09:32:05.663 [main] INFO  com.example.calculator.Calculator - 生成ID：b5961d5b-f1b0-44e1-9844-f72718ca4dfe 并绑定
+2023-04-08 09:32:05.663 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 -1
+2023-04-08 09:32:05.664 [main] INFO  com.example.calculator.Calculator - ID: b5961d5b-f1b0-44e1-9844-f72718ca4dfe 释放
+2023-04-08 09:32:05.671 [main] INFO  com.example.calculator.Calculator - 生成ID：bd807cd0-8fa1-4701-8c04-333e3dcbd9d8 并绑定
+2023-04-08 09:32:05.672 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 1
+2023-04-08 09:32:05.673 [main] INFO  com.example.calculator.Calculator - ID: bd807cd0-8fa1-4701-8c04-333e3dcbd9d8 释放
+2023-04-08 09:32:05.681 [main] INFO  com.example.calculator.Calculator - 生成ID：7082106c-db0a-48e7-aaf3-17408f58c0d5 并绑定
+2023-04-08 09:32:05.681 [main] WARN  com.example.calculator.Calculator - 请输入范围内的整数
+2023-04-08 09:32:05.681 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 0
+2023-04-08 09:32:05.682 [main] INFO  com.example.calculator.Calculator - ID: 7082106c-db0a-48e7-aaf3-17408f58c0d5 释放
+2023-04-08 09:32:05.685 [main] INFO  com.example.calculator.Calculator - 生成ID：a8bb3e89-507a-4805-8031-187d195ea28f 并绑定
+2023-04-08 09:32:05.686 [main] WARN  com.example.calculator.Calculator - 请输入范围内的整数
+2023-04-08 09:32:05.686 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 0
+2023-04-08 09:32:05.686 [main] INFO  com.example.calculator.Calculator - ID: a8bb3e89-507a-4805-8031-187d195ea28f 释放
+2023-04-08 09:32:05.690 [main] INFO  com.example.calculator.Calculator - 生成ID：1e3f0eb7-4a65-459f-90db-151d9aeb76d2 并绑定
+2023-04-08 09:32:05.691 [main] WARN  com.example.calculator.Calculator - 请输入范围内的整数
+2023-04-08 09:32:05.691 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 0
+2023-04-08 09:32:05.692 [main] INFO  com.example.calculator.Calculator - ID: 1e3f0eb7-4a65-459f-90db-151d9aeb76d2 释放
+2023-04-08 09:32:05.696 [main] INFO  com.example.calculator.Calculator - 生成ID：75b3ab5f-260b-4042-9608-6111e76aed65 并绑定
+2023-04-08 09:32:05.697 [main] WARN  com.example.calculator.Calculator - 请输入范围内的整数
+2023-04-08 09:32:05.697 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 0
+2023-04-08 09:32:05.697 [main] INFO  com.example.calculator.Calculator - ID: 75b3ab5f-260b-4042-9608-6111e76aed65 释放
+2023-04-08 09:32:05.702 [main] INFO  com.example.calculator.Calculator - 关闭 创建计算器 
+2023-04-08 09:32:23.308 [main] INFO  com.example.calculator.Calculator - 创建 创建计算器 
+2023-04-08 09:32:23.581 [main] INFO  com.example.calculator.Calculator - 生成ID：ac638969-7305-4164-b58d-29c4c2b705bb 并绑定
+2023-04-08 09:32:23.609 [main] INFO  com.example.calculator.Calculator - ID: ac638969-7305-4164-b58d-29c4c2b705bb 释放
+2023-04-08 09:32:23.631 [main] INFO  com.example.calculator.Calculator - 生成ID：04b8a4a6-8b17-4f18-abec-3deacdac053f 并绑定
+2023-04-08 09:32:23.631 [main] INFO  com.example.calculator.Calculator - ID: 04b8a4a6-8b17-4f18-abec-3deacdac053f 释放
+2023-04-08 09:32:23.637 [main] INFO  com.example.calculator.Calculator - 关闭 创建计算器 
+2023-04-08 09:32:40.930 [main] INFO  com.example.calculator.Calculator - 创建 创建计算器 
+2023-04-08 09:32:41.211 [main] INFO  com.example.calculator.Calculator - 生成ID：1f1a4e1c-605e-4de0-881a-3cb2dd4606ef 并绑定
+2023-04-08 09:32:41.242 [main] INFO  com.example.calculator.Calculator - ID: 1f1a4e1c-605e-4de0-881a-3cb2dd4606ef 释放
+2023-04-08 09:32:41.259 [main] INFO  com.example.calculator.Calculator - 生成ID：c1d4345e-ae74-4f1c-a91a-0cd1835c5803 并绑定
+2023-04-08 09:32:41.261 [main] INFO  com.example.calculator.Calculator - ID: c1d4345e-ae74-4f1c-a91a-0cd1835c5803 释放
+2023-04-08 09:32:41.269 [main] INFO  com.example.calculator.Calculator - 关闭 创建计算器 
+2023-04-08 09:32:53.813 [main] INFO  com.example.calculator.Calculator - 创建 创建计算器 
+2023-04-08 09:32:54.111 [main] INFO  com.example.calculator.Calculator - 生成ID：9425db83-3724-4e22-959d-ad0c7dafa14e 并绑定
+2023-04-08 09:32:54.150 [main] INFO  com.example.calculator.Calculator - ID: 9425db83-3724-4e22-959d-ad0c7dafa14e 释放
+2023-04-08 09:32:54.174 [main] INFO  com.example.calculator.Calculator - 生成ID：f1f70e28-a2b3-4d4e-ae26-a92229ac67cb 并绑定
+2023-04-08 09:32:54.175 [main] INFO  com.example.calculator.Calculator - ID: f1f70e28-a2b3-4d4e-ae26-a92229ac67cb 释放
+2023-04-08 09:32:54.182 [main] INFO  com.example.calculator.Calculator - 关闭 创建计算器 
+2023-04-08 09:33:22.735 [main] INFO  com.example.calculator.Calculator - 创建 创建计算器 
+2023-04-08 09:33:23.287 [main] INFO  com.example.calculator.Calculator - 生成ID：f0f86335-e915-48b4-87d5-2eaa81e26a36 并绑定
+2023-04-08 09:33:23.318 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 2
+2023-04-08 09:33:23.328 [main] INFO  com.example.calculator.Calculator - ID: f0f86335-e915-48b4-87d5-2eaa81e26a36 释放
+2023-04-08 09:33:23.344 [main] INFO  com.example.calculator.Calculator - 生成ID：8139c556-2d9d-4931-ae2b-10a66305af68 并绑定
+2023-04-08 09:33:23.344 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 196
+2023-04-08 09:33:23.345 [main] INFO  com.example.calculator.Calculator - ID: 8139c556-2d9d-4931-ae2b-10a66305af68 释放
+2023-04-08 09:33:23.348 [main] INFO  com.example.calculator.Calculator - 生成ID：fa2af7de-309b-4303-a7ce-8981a8b573c7 并绑定
+2023-04-08 09:33:23.349 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 0
+2023-04-08 09:33:23.349 [main] INFO  com.example.calculator.Calculator - ID: fa2af7de-309b-4303-a7ce-8981a8b573c7 释放
+2023-04-08 09:33:23.352 [main] INFO  com.example.calculator.Calculator - 生成ID：b70462c3-7ffe-4609-9783-04a13e6dea6e 并绑定
+2023-04-08 09:33:23.353 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 -196
+2023-04-08 09:33:23.353 [main] INFO  com.example.calculator.Calculator - ID: b70462c3-7ffe-4609-9783-04a13e6dea6e 释放
+2023-04-08 09:33:23.356 [main] INFO  com.example.calculator.Calculator - 生成ID：8e25fbfa-4e16-4c97-89fd-80058656718b 并绑定
+2023-04-08 09:33:23.356 [main] WARN  com.example.calculator.Calculator - integer is 100！
+2023-04-08 09:33:23.358 [main] INFO  com.example.calculator.Calculator - ID: 8e25fbfa-4e16-4c97-89fd-80058656718b 释放
+2023-04-08 09:33:23.368 [main] INFO  com.example.calculator.Calculator - 生成ID：06e2b1d0-60e4-487c-96fa-17c92b5cc240 并绑定
+2023-04-08 09:33:23.368 [main] WARN  com.example.calculator.Calculator - 请输入范围内的整数
+2023-04-08 09:33:23.369 [main] INFO  com.example.calculator.Calculator - ID: 06e2b1d0-60e4-487c-96fa-17c92b5cc240 释放
+2023-04-08 09:33:23.374 [main] INFO  com.example.calculator.Calculator - 生成ID：4e42727e-8d9d-4eed-9c26-02e07fe6a63c 并绑定
+2023-04-08 09:33:23.375 [main] WARN  com.example.calculator.Calculator - integer is 100！
+2023-04-08 09:33:23.376 [main] INFO  com.example.calculator.Calculator - ID: 4e42727e-8d9d-4eed-9c26-02e07fe6a63c 释放
+2023-04-08 09:33:23.382 [main] INFO  com.example.calculator.Calculator - 生成ID：a22e28f0-f317-4282-bcdc-463b4c4c41b9 并绑定
+2023-04-08 09:33:23.383 [main] WARN  com.example.calculator.Calculator - 请输入范围内的整数
+2023-04-08 09:33:23.383 [main] INFO  com.example.calculator.Calculator - ID: a22e28f0-f317-4282-bcdc-463b4c4c41b9 释放
+2023-04-08 09:33:23.387 [main] INFO  com.example.calculator.Calculator - 关闭 创建计算器 
+2023-04-08 09:34:00.102 [main] INFO  com.example.calculator.Calculator - 创建 创建计算器 
+2023-04-08 09:34:00.683 [main] INFO  com.example.calculator.Calculator - 生成ID：42dcd7ab-2398-4a94-855f-7c3221b22315 并绑定
+2023-04-08 09:34:00.704 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 1
+2023-04-08 09:34:00.712 [main] INFO  com.example.calculator.Calculator - ID: 42dcd7ab-2398-4a94-855f-7c3221b22315 释放
+2023-04-08 09:34:00.730 [main] INFO  com.example.calculator.Calculator - 生成ID：583724c2-7802-43aa-912c-a7f045d56deb 并绑定
+2023-04-08 09:34:00.730 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 1
+2023-04-08 09:34:00.731 [main] INFO  com.example.calculator.Calculator - ID: 583724c2-7802-43aa-912c-a7f045d56deb 释放
+2023-04-08 09:34:00.737 [main] INFO  com.example.calculator.Calculator - 生成ID：0ecd592c-b8cf-4634-841c-690006fa8a51 并绑定
+2023-04-08 09:34:00.738 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 -1
+2023-04-08 09:34:00.740 [main] INFO  com.example.calculator.Calculator - ID: 0ecd592c-b8cf-4634-841c-690006fa8a51 释放
+2023-04-08 09:34:00.750 [main] INFO  com.example.calculator.Calculator - 生成ID：bd5c496e-6ee4-4629-8292-bd75501fd167 并绑定
+2023-04-08 09:34:00.751 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 1
+2023-04-08 09:34:00.752 [main] INFO  com.example.calculator.Calculator - ID: bd5c496e-6ee4-4629-8292-bd75501fd167 释放
+2023-04-08 09:34:00.758 [main] INFO  com.example.calculator.Calculator - 生成ID：9efb65e6-29bb-4f78-b11b-2a0ef818cd2f 并绑定
+2023-04-08 09:34:00.759 [main] WARN  com.example.calculator.Calculator - 请输入范围内的整数
+2023-04-08 09:34:00.759 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 0
+2023-04-08 09:34:00.759 [main] INFO  com.example.calculator.Calculator - ID: 9efb65e6-29bb-4f78-b11b-2a0ef818cd2f 释放
+2023-04-08 09:34:00.763 [main] INFO  com.example.calculator.Calculator - 生成ID：5fdc9776-c7f6-4752-a391-a2deea933945 并绑定
+2023-04-08 09:34:00.764 [main] WARN  com.example.calculator.Calculator - 请输入范围内的整数
+2023-04-08 09:34:00.764 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 0
+2023-04-08 09:34:00.764 [main] INFO  com.example.calculator.Calculator - ID: 5fdc9776-c7f6-4752-a391-a2deea933945 释放
+2023-04-08 09:34:00.768 [main] INFO  com.example.calculator.Calculator - 生成ID：b3ad56df-c3b2-41fb-9462-f0715ccfa380 并绑定
+2023-04-08 09:34:00.768 [main] WARN  com.example.calculator.Calculator - 请输入范围内的整数
+2023-04-08 09:34:00.768 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 0
+2023-04-08 09:34:00.768 [main] INFO  com.example.calculator.Calculator - ID: b3ad56df-c3b2-41fb-9462-f0715ccfa380 释放
+2023-04-08 09:34:00.772 [main] INFO  com.example.calculator.Calculator - 生成ID：19f83705-c9fb-4179-b709-ca0337c4a4d6 并绑定
+2023-04-08 09:34:00.772 [main] WARN  com.example.calculator.Calculator - 请输入范围内的整数
+2023-04-08 09:34:00.772 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 0
+2023-04-08 09:34:00.772 [main] INFO  com.example.calculator.Calculator - ID: 19f83705-c9fb-4179-b709-ca0337c4a4d6 释放
+2023-04-08 09:34:00.776 [main] INFO  com.example.calculator.Calculator - 关闭 创建计算器 
+2023-04-08 09:34:52.407 [main] INFO  com.example.calculator.Calculator - 创建 创建计算器 
+2023-04-08 09:34:53.010 [main] INFO  com.example.calculator.Calculator - 生成ID：9b3d3394-120e-4bd3-9bb7-61e941fec8e6 并绑定
+2023-04-08 09:34:53.054 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 2
+2023-04-08 09:34:53.068 [main] INFO  com.example.calculator.Calculator - ID: 9b3d3394-120e-4bd3-9bb7-61e941fec8e6 释放
+2023-04-08 09:34:53.086 [main] INFO  com.example.calculator.Calculator - 生成ID：60fad449-295d-4a01-bcd7-2222829d8e65 并绑定
+2023-04-08 09:34:53.087 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 1
+2023-04-08 09:34:53.088 [main] INFO  com.example.calculator.Calculator - ID: 60fad449-295d-4a01-bcd7-2222829d8e65 释放
+2023-04-08 09:34:53.093 [main] INFO  com.example.calculator.Calculator - 生成ID：135ac5d5-5c6a-4a2d-9478-3f0dac66ddfa 并绑定
+2023-04-08 09:34:53.094 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 -1
+2023-04-08 09:34:53.095 [main] INFO  com.example.calculator.Calculator - ID: 135ac5d5-5c6a-4a2d-9478-3f0dac66ddfa 释放
+2023-04-08 09:34:53.098 [main] INFO  com.example.calculator.Calculator - 生成ID：37eefaaf-bd82-4952-af0b-488a08936401 并绑定
+2023-04-08 09:34:53.099 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 1
+2023-04-08 09:34:53.100 [main] INFO  com.example.calculator.Calculator - ID: 37eefaaf-bd82-4952-af0b-488a08936401 释放
+2023-04-08 09:34:53.103 [main] INFO  com.example.calculator.Calculator - 生成ID：1f990841-2a54-41cb-a226-2a87595569d3 并绑定
+2023-04-08 09:34:53.104 [main] WARN  com.example.calculator.Calculator - 请输入范围内的整数
+2023-04-08 09:34:53.104 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 0
+2023-04-08 09:34:53.107 [main] INFO  com.example.calculator.Calculator - ID: 1f990841-2a54-41cb-a226-2a87595569d3 释放
+2023-04-08 09:34:53.117 [main] INFO  com.example.calculator.Calculator - 生成ID：33ab575f-012f-4029-8bc9-3b9bd436b81d 并绑定
+2023-04-08 09:34:53.118 [main] WARN  com.example.calculator.Calculator - 请输入范围内的整数
+2023-04-08 09:34:53.118 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 0
+2023-04-08 09:34:53.119 [main] INFO  com.example.calculator.Calculator - ID: 33ab575f-012f-4029-8bc9-3b9bd436b81d 释放
+2023-04-08 09:34:53.127 [main] INFO  com.example.calculator.Calculator - 生成ID：594f6e92-299a-41a6-9086-d2d307812832 并绑定
+2023-04-08 09:34:53.128 [main] WARN  com.example.calculator.Calculator - 请输入范围内的整数
+2023-04-08 09:34:53.128 [main] INFO  com.example.calculator.test.Calculator_day2 - 计算结果 0
+2023-04-08 09:34:53.129 [main] INFO  com.example.calculator.Calculator - ID: 594f6e92-299a-41a6-9086-d2d307812832 释放
+2023-04-08 09:34:53.139 [main] INFO  com.example.calculator.Calculator - 关闭 创建计算器 
