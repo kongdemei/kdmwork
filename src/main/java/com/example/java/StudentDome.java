@@ -1,8 +1,6 @@
 package com.example.java;
 
 import com.alibaba.fastjson.JSON;
-import jdk.nashorn.internal.runtime.JSONFunctions;
-import org.junit.platform.commons.util.StringUtils;
 import org.yaml.snakeyaml.Yaml;
 
 import java.io.FileInputStream;
@@ -89,7 +87,7 @@ public class StudentDome {
         ResultStudent result = new ResultStudent();
         Yaml yaml = new Yaml();
         Map<Integer, Object> objectMap = yaml.load(new FileInputStream(PATH));
-        if (objectMap == null||null==objectMap.get(id)) {
+        if (objectMap == null || null == objectMap.get(id)) {
             result.setException(new CustomException("没有学员信息"));
             return result;
         }
@@ -112,10 +110,10 @@ public class StudentDome {
         Student std = new Student(null, null, null);
         String[] strings = str.split(",");
         if (strings.length == 3) {
-            if (StringUtils.isBlank(strings[0]) || StringUtils.isBlank(strings[1]) || StringUtils.isBlank(strings[2])) {
-                result.setException(new CustomException("学员信息有误"));
-                return result;
-            }
+            //if (StringUtils.isBlank(strings[0]) || StringUtils.isBlank(strings[1]) || StringUtils.isBlank(strings[2])) {
+            result.setException(new CustomException("学员信息有误"));
+            //    return result;
+            //  }
             std.setSnoid(Integer.valueOf(strings[0]));
             std.setName(strings[1]);
             std.setGender(strings[2]);

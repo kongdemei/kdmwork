@@ -10,6 +10,7 @@ public class Student {
     private String name;
     private String gender;
 
+
     public Integer getSnoid() {
         return snoid;
     }

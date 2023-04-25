@@ -1,6 +1,7 @@
 package com.example.calculator.test;
 
 import com.example.calculator.Calculator;
+import io.qameta.allure.Description;
 import org.junit.jupiter.api.*;
 import org.slf4j.Logger;
 
@@ -12,6 +13,8 @@ import static org.slf4j.LoggerFactory.getLogger;
  * @description:
  * @author: kdm
  * @createDate: 2023/4/1
+ * allure serve target/allure-results 测试报告执行命令
+ *
  */
 public class Calculator_day1 {
     static final Logger logger = getLogger(lookup().lookupClass());
@@ -92,6 +95,7 @@ public class Calculator_day1 {
         assertEquals(1,result);
     }
     @Test
+    @Description("减法计算")
     @DisplayName("减法计算:-3-2")
     void subtractTest_2() {
         logger.info("开始进行计算");
